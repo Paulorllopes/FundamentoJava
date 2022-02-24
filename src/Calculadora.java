@@ -4,6 +4,7 @@ public class Calculadora {
 
 	public static void main(String[] args) {
 
+		
 		Scanner numero = new Scanner(System.in);
 
 		int escolher;

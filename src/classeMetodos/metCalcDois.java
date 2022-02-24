@@ -3,7 +3,7 @@ package classeMetodos;
 
 
 public class metCalcDois {
-	
+
 	public static String mensagem(String m) {
 
 		System.out.println(m);
@@ -29,6 +29,10 @@ public class metCalcDois {
 	public static float dividir(float a, float b) {
 		float c = a / b;
 		return c;
+	}
+	
+	public void escrever(String m) {
+		System.out.println(m);
 	}
 	
 	
